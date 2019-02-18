@@ -5,3 +5,5 @@ _2_ merge feature and df
 _3_lgb season1  
 _3_ffm season2  
 ig:The ffm model in libffm file which is likely to overfitting are supposed to run in the system of Windows.  
+
+score: top 5% (226/5204)
